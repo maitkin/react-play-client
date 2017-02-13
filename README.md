@@ -1,6 +1,11 @@
 # react-play-client
 Example web-client using React and Redux with WebSockets
 
+See blog post (https://maitkin.wordpress.com/2017/02/12/reactredux-play-with-websockets/)
+
+Example server (https://github.com/maitkin/react-play-server)
+
+
 ## Prerequisites
 
    node >= 7.4.0
